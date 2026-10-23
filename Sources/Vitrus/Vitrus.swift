@@ -159,7 +159,7 @@ struct Queued: Codable, Equatable {
 }
 
 actor VitrusClient {
-    static let sdkVersion = "0.1.0"
+    static let sdkVersion = "0.1.1"
     static let batchMax = 50
     static let queueMax = 1000
     /// The server refuses events older than a day (validate.ts AGO_MAX).

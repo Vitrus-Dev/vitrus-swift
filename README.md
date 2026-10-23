@@ -20,7 +20,7 @@ https://github.com/Vitrus-Dev/vitrus-swift
 or in `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/Vitrus-Dev/vitrus-swift", from: "0.1.0")
+.package(url: "https://github.com/Vitrus-Dev/vitrus-swift", from: "0.1.1")
 ```
 
 ## Use
